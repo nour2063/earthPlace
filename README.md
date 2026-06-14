@@ -21,21 +21,21 @@ earthPlace is a multiplayer augmented reality platform for collaborative voxel c
   <table>
     <tr>
       <td rowspan="2">
-        <img src="https://github.com/user-attachments/assets/fbafba71-d43a-4e45-b346-c69383236f01" height="420" alt="AR Voxel Animation">
+        <img src="https://github.com/user-attachments/assets/b3f96473-52f6-4394-88ba-a932417f7979" height="420" alt="AR Voxel Animation">
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/558c0a06-8b2c-4217-886f-0c1ec9b7ff82" width="200" height="200" alt="bike">
+        <img src="https://github.com/user-attachments/assets/0abad5c4-40c0-4965-8b3f-8055ee8c1807" width="200" height="200" alt="bike">
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/8a2935d0-213f-4685-af9e-ee4ef31f8163" width="200" height="200" alt="spiral_thing">
+        <img src="https://github.com/user-attachments/assets/ae544fc9-70b1-48f4-8134-ebb373d35518" width="200" height="200" alt="spiral_thing">
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/029fcfba-35ee-4880-b74b-0b5a8f0b6387" width="200" height="200" alt="heart">
+        <img src="https://github.com/user-attachments/assets/f8b5a766-b91f-459a-a602-a21b970804b2" width="200" height="200" alt="heart">
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/b0673869-98e8-46f1-8ff1-fffa7aa55184" width="200" height="200" alt="torch">
+        <img src="https://github.com/user-attachments/assets/0cd45c5a-c2a6-4f08-a853-bc49de5a1751" width="200" height="200" alt="torch">
       </td>
     </tr>
   </table>
