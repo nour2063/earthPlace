@@ -1,0 +1,27 @@
+name: Feature request / feedback
+description: Suggest a feature, an improvement, or share feedback on the experience.
+title: "[Idea]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem or gap are you running into?
+      description: What's frustrating, missing, or harder than it should be?
+      placeholder: e.g. It's hard to tell which layers near me have blocks before I localize.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Describe the feature or change. Rough ideas are welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else?
+      description: How often would this help you? Any examples from other apps?
+    validations:
+      required: false
