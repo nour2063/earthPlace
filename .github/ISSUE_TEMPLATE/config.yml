@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Join the iOS beta (TestFlight)
-    url: https://testflight.apple.com/join/fPfRkrbH
-    about: Get the latest iOS build to test.
-  - name: Join the Android beta (Firebase)
-    url: https://appdistribution.firebase.dev/i/7df9c87a09c55992
-    about: Get the latest Android build to test.
+  - name: Questions & general feedback
+    url: https://github.com/nour2063/earthPlace/discussions
+    about: For open-ended feedback, questions, or ideas you're not sure about, start a discussion instead.
