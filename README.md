@@ -17,8 +17,6 @@
 
 earthPlace is a multiplayer augmented reality platform for collaborative voxel creation anchored to real-world locations. When players are in the same physical space, they automatically localize into a shared session where they can build and interact with persistent structures together in real-time, seamlessly blending digital creation with the physical world.
 
-For AR and localization issues, please include your device, OS version, and app build — a screen recording helps a lot.
-
 <div align="center">
   <table>
     <tr>
