@@ -10,8 +10,11 @@
 ### Download & Test
 
 - [iOS Beta (TestFlight)](https://testflight.apple.com/join/fPfRkrbH)
-- [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/7df9c87a09c55992)
+- [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/0f55bd682b2cd0d3)
+- [Meta Quest Preview (Firebase)](https://appdistribution.firebase.dev/i/78058d8183d1bf46)
 - [Latest builds](../../releases) — direct APK and IPA downloads
+
+[Project page](https://nourelfangary.com/projects/earthplace) · [Privacy policy](https://nourelfangary.com/projects/earthplace/privacy) · [Support](https://nourelfangary.com/projects/earthplace/support)
 
 > This repository hosts public documentation and release builds for earthPlace. The source code is private. All rights reserved — no license is granted for the reproduction, modification, or distribution of the application or its assets.
 
