@@ -88,14 +88,14 @@ UI icons and assets used in this project:
 
 - **Cube** (app icon) — by Royyan Wijaya, from [Flaticon](https://www.flaticon.com/)
 - **Globe** (app icon background) — by sm wizard, from [Vecteezy](https://www.vecteezy.com/)
-- **Interface icons** (gray line icons, navigation arrow, plus, pencil) — [MynaUI Icons](https://mynaui.com/icons) by Praveen Juge ([MIT License](https://github.com/praveenjuge/mynaui-icons))
-- **Invite** — "User Avatar" icon by SeyfDesigner, from [Flaticon](https://www.flaticon.com/free-icon/user-avatar_8188374)
+- **Interface icons** (refresh, back, settings, share, invite, undo, timeline and the rest) — [Lucide](https://lucide.dev/), copyright Lucide Contributors ([ISC License](https://github.com/lucide-icons/lucide/blob/main/LICENSE))
+- **Line icons** (pencil, eye, trash) — [MynaUI Icons](https://mynaui.com/icons) by Praveen Juge ([MIT License](https://github.com/praveenjuge/mynaui-icons))
 - **Eraser** — "Eraser Tool 3D Icon" by M Wildan Cahya Syarief, from [Iconscout](https://iconscout.com/)
 - **Color dropper** — "Color Picker 3D Icon" by Soni Sokell, from [Iconscout](https://iconscout.com/)
-- **Quadrilateral icon** (and its grayscale variant) — from [Iconscout](https://iconscout.com/)
-- **Gallery icon** (placeholder thumbnail) — "3D Gallery Icon with Mountains and Sun" by Arman Hasan, from [Vecteezy](https://www.vecteezy.com/png/69002876-3d-illustration-of-3d-gallery-icon-with-mountains-and-sun-isolated-on-transparent-background)
-- **Map illustration** — "Cute Map 3D Rendered Style" (#21443558) by Grapict Studio, from [Pngtree](https://pngtree.com/)
-- **Share** — "Share" icon by Bankume, from [Flaticon](https://www.flaticon.com/free-icon/share_4855052)
+- **Recenter** — "Target" icon by Anggara, from [Flaticon](https://www.flaticon.com/free-icon/target_5076994)
+- **3D pencil** — "A Yellow Pencil with a Pink Eraser and Silver Band" by Nilufa Yeasmin, from [Vecteezy](https://www.vecteezy.com/png/70056639-a-yellow-pencil-with-a-pink-eraser-and-silver-band-isolated-on-transparent-background)
+- **Select cursor** — "Hand Cursor Icon 3D Render for UI UX Design" by Forida Akther Rimu, from [Vecteezy](https://www.vecteezy.com/png/69258298-hand-cursor-icon-3d-render-for-ui-ux-design)
+- **Fonts** — Roboto Slab by Christian Robertson, and Google Sans Code by the Google Sans Code Project Authors, both under the [SIL Open Font License 1.1](https://openfontlicense.org/)
 
 ## Legal
 
