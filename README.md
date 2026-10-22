@@ -9,10 +9,9 @@
 
 ### Download & Test
 
-- [iOS Beta (TestFlight)](https://testflight.apple.com/join/fPfRkrbH)
-- [Android Beta (Firebase)](https://appdistribution.firebase.dev/i/0f55bd682b2cd0d3)
-- [Meta Quest Preview (Firebase)](https://appdistribution.firebase.dev/i/78058d8183d1bf46)
-- [Latest builds](../../releases) — direct APK and IPA downloads
+- [iOS Closed Beta](https://testflight.apple.com/join/fPfRkrbH)
+- [Android Closed Beta](https://play.google.com/apps/internaltest/4701546929456902038)
+- [Latest builds](../../releases)
 
 [Project page](https://nourelfangary.com/projects/earthplace) · [Privacy policy](https://nourelfangary.com/projects/earthplace/privacy) · [Support](https://nourelfangary.com/projects/earthplace/support)
 
