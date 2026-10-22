@@ -10,7 +10,7 @@
 ### Download & Test
 
 - [iOS Closed Beta](https://testflight.apple.com/join/fPfRkrbH)
-- [Android Closed Beta](https://play.google.com/apps/internaltest/4701546929456902038)
+- [Android Closed Beta](https://appdistribution.firebase.dev/i/0f55bd682b2cd0d3)
 - [Latest builds](../../releases)
 
 [Project page](https://nourelfangary.com/projects/earthplace) · [Privacy policy](https://nourelfangary.com/projects/earthplace/privacy) · [Support](https://nourelfangary.com/projects/earthplace/support)
